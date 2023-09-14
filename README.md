@@ -1,4 +1,15 @@
 ![logo](https://github.com/Mahmaduvesh/Mahmaduvesh/blob/main/new%20coding.gif)
+<h1 align="center" >Hi <img  width="40" height="40" src="https://github.com/Mahmaduvesh/Mahmaduvesh/blob/main/smily.gif" alt="smily" /> I'm Mahmaduvesh Khalifa</h1>
+
+<h4 align="left">A passionate Software Engineer from India</h4>
+<img align="right" alt="coding" width="330" height="210" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmaduvesh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmaduvesh" /> </p>
+
+- 📫 How to reach me **mahmaduveshkhalifa@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/uvesh.khalifa.94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_uv_0311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahmaduvesh-khalifa-b48ba41a0) 
@@ -17,8 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MAhmaduvesh&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahmaduvesh) 
 
