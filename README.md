@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://github.com/Mahmaduvesh/Mahmaduvesh/blob/main/new%20coding.gif" width="100%"/>
+<!-- <img src="https://github.com/Mahmaduvesh/Mahmaduvesh/blob/main/new%20coding.gif" width="100%"/> -->
 
 # 👋 Hi, I'm Mahmaduvesh Khalifa
 
