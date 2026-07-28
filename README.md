@@ -1,191 +1,99 @@
+# 💼 What I Do
 
-<div align="center">
+💻 Build Modern Full Stack Web Applications
 
-# 👋 Hi, I'm Mahmaduvesh Khalifa
+⚛️ Develop Responsive React.js Interfaces
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Frontend+Developer;React.js+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
+🚀 Create REST APIs using Node.js & Express.js
 
-<img src="https://komarev.com/ghpvc/?username=Mahmaduvesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+🗄️ Design Secure Databases with MongoDB & MySQL
 
-<img src="https://img.shields.io/github/followers/Mahmaduvesh?style=for-the-badge&logo=github" />
+🎨 Build Beautiful UI with Tailwind CSS
 
-<img src="https://img.shields.io/github/stars/Mahmaduvesh?style=for-the-badge&logo=github" />
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
-
-💻 Full Stack Software Engineer from India
-
-🎓 MCA Gold Medalist & Academic Excellence Award Winner
-
-🥇 Ranked **#1 among 80+ MCA Students**
-
-🚀 Passionate MERN Stack Developer
-
-🌱 Currently Learning **Next.js, TypeScript, System Design & Cloud**
-
-💡 Love Building Modern, Fast & Responsive Web Applications
-
-📚 Strong Interest in Open Source Development
-
-🎯 Goal: Become a World-Class Software Engineer
-
-⚡ Fun Fact: **I turn coffee ☕ into clean code 💻**
-
-📧 **Email:** `mahmaduveshkhalifa@gmail.com`
+📱 Optimize Websites for Mobile & Performance
 
 ---
 
-# 🌐 Connect With Me
+# 🌟 Core Skills
 
-<p align="center">
+✔ Frontend Development
 
-<a href="https://www.linkedin.com/in/mahmaduvesh-khalifa-b48ba41a0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+✔ Backend Development
 
-<a href="https://github.com/Mahmaduvesh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+✔ Database Design
 
-<a href="mailto:mahmaduveshkhalifa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+✔ REST API Development
 
-<a href="https://instagram.com/mr_uv_0311">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+✔ Authentication & Authorization
 
-<a href="https://www.facebook.com/uvesh.khalifa.94">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+✔ Responsive Web Design
 
-</p>
+✔ Performance Optimization
+
+✔ Git & GitHub
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,laravel,python,c,cpp,java,git,github,firebase,postman,tailwind,bootstrap,sass,vscode,vercel,netlify,npm,figma" />
+<td width="50%">
 
-</div>
+### 📄 Secure & Share Government Documents
 
----
+🔐 Secure cloud-based government document management platform.
 
-# 🚀 Currently Working On
+**Tech**
 
-- 🔥 MERN Stack Applications
-- 🌐 Full Stack Development
-- ⚛️ Advanced React.js
-- ▲ Next.js
-- 🧠 System Design
-- 📈 Data Structures & Algorithms
-- ☁️ Cloud Computing
-- 🤝 Open Source Contributions
+React • Node.js • MongoDB • Express
 
----
+</td>
 
-# 🏆 Achievements
+<td width="50%">
 
-🥇 MCA Gold Medalist
+### 🛒 SparkEcom
 
-🏅 Academic Excellence Award Winner
+Modern Digital Products & E-Commerce Platform.
 
-🎖️ Ranked #1 among 80+ MCA Students
+**Tech**
 
-💻 Full Stack Software Engineer
+React • Express • MongoDB
 
-🚀 MERN Stack Developer
+</td>
 
----
+</tr>
 
-# 📊 GitHub Analytics
+<tr>
 
-<p align="center">
+<td width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmaduvesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+### 🎓 Student Management System
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmaduvesh&layout=compact&theme=tokyonight&hide_border=true"/>
+Student Portal with Assignments, Notes & Attendance.
 
-</p>
+**Tech**
 
-<p align="center">
+React • Laravel • MySQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmaduvesh&theme=tokyonight&hide_border=true"/>
+</td>
 
-</p>
+<td width="50%">
 
----
+### 💼 Portfolio Website
 
-# 📈 Contribution Graph
+Personal Portfolio showcasing projects and skills.
 
-<p align="center">
+**Tech**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmaduvesh&theme=tokyo-night&hide_border=true"/>
+React • Tailwind CSS
 
-</p>
+</td>
 
----
+</tr>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mahmaduvesh&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 💼 Featured Projects
-
-## 📂 Secure & Share Government Documents
-
-🔹 Secure digital document management platform for storing and sharing government documents safely.
-
-**Tech Stack**
-
-`React.js` • `Node.js` • `Express.js` • `MongoDB`
-
----
-
-## 🛒 SparkEcom
-
-Modern E-Commerce platform with responsive UI, authentication and digital product management.
-
-**Tech Stack**
-
-`React.js` • `Node.js` • `MongoDB`
-
----
-
-## 🎓 Student Management System
-
-Student portal for attendance, study materials, assignments, notices and department management.
-
-**Tech Stack**
-
-`React.js` • `Laravel` • `MySQL`
-
----
-
-# 📚 Currently Learning
-
-- Next.js
-- TypeScript
-- Docker
-- AWS
-- CI/CD
-- System Design
-- Redis
-- Microservices
+</table>
 
 ---
 
@@ -203,53 +111,32 @@ Student portal for attendance, study materials, assignments, notices and departm
 
 ---
 
-# 📅 2026 Goals
+# 🌱 Currently Learning
+
+⚛️ Next.js
+
+☁️ Cloud Computing
+
+🐳 Docker
+
+⚡ TypeScript
+
+🏗️ System Design
+
+🧠 Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production-Level SaaS Applications
 
 ✅ Master Next.js
 
-✅ Learn Cloud Computing
+✅ Master TypeScript
+
+✅ Learn AWS & DevOps
 
 ✅ Contribute to Open Source
 
-✅ Build SaaS Products
-
-✅ Solve 500+ DSA Problems
-
-✅ Become a Senior Software Engineer
-
----
-
-# ✍️ Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-
-<a href="https://buymeacoffee.com/mahmaduvesh">
-
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💙 Thanks for Visiting My Profile
-
-### ⭐ *"Code • Learn • Build • Repeat"* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
-
-</div>
-
+✅ Become Senior Software Engineer
