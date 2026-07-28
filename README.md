@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 👋 Hi, I'm Mahmaduvesh Khalifa
@@ -252,4 +252,4 @@ Student portal for attendance, study materials, assignments, notices and departm
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
-```
+
