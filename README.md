@@ -1,42 +1,60 @@
-# <div align="center">
-
-<!-- <img src="https://github.com/Mahmaduvesh/Mahmaduvesh/blob/main/new%20coding.gif" width="100%"/> -->
+```md
+<div align="center">
 
 # 👋 Hi, I'm Mahmaduvesh Khalifa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;MERN+Stack+Developer;React+JS+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Frontend+Developer;React.js+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Mahmaduvesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Mahmaduvesh?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/github/stars/Mahmaduvesh?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
 
-💻 Software Engineer from India
+💻 Full Stack Software Engineer from India
 
 🎓 MCA Gold Medalist & Academic Excellence Award Winner
 
-🏆 Ranked #1 among 80+ MCA Students
+🥇 Ranked **#1 among 80+ MCA Students**
 
-🌱 Currently Learning Advanced React, Next.js & System Design
+🚀 Passionate MERN Stack Developer
 
-🚀 Passionate about Full Stack Web Development
+🌱 Currently Learning **Next.js, TypeScript, System Design & Cloud**
+
+💡 Love Building Modern, Fast & Responsive Web Applications
+
+📚 Strong Interest in Open Source Development
 
 🎯 Goal: Become a World-Class Software Engineer
 
-⚡ Fun Fact: I turn coffee ☕ into code 💻
+⚡ Fun Fact: **I turn coffee ☕ into clean code 💻**
 
-📧 Email: **[mahmaduveshkhalifa@gmail.com](mailto:mahmaduveshkhalifa@gmail.com)**
+📧 **Email:** `mahmaduveshkhalifa@gmail.com`
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/mahmaduvesh-khalifa-b48ba41a0">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mahmaduvesh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:mahmaduveshkhalifa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/mr_uv_0311">
@@ -47,97 +65,191 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:mahmaduveshkhalifa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,php,laravel,python,c,git,github,postman,firebase,vscode,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,laravel,python,c,cpp,java,git,github,firebase,postman,tailwind,bootstrap,sass,vscode,vercel,netlify,npm,figma" />
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+# 🚀 Currently Working On
+
+- 🔥 MERN Stack Applications
+- 🌐 Full Stack Development
+- ⚛️ Advanced React.js
+- ▲ Next.js
+- 🧠 System Design
+- 📈 Data Structures & Algorithms
+- ☁️ Cloud Computing
+- 🤝 Open Source Contributions
+
+---
+
+# 🏆 Achievements
+
+🥇 MCA Gold Medalist
+
+🏅 Academic Excellence Award Winner
+
+🎖️ Ranked #1 among 80+ MCA Students
+
+💻 Full Stack Software Engineer
+
+🚀 MERN Stack Developer
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAhmaduvesh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAhmaduvesh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmaduvesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmaduvesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MAhmaduvesh&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmaduvesh&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAhmaduvesh&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmaduvesh&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MAhmaduvesh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mahmaduvesh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💼 Featured Projects
 
-### 📂 Secure & Share Government Documents
+## 📂 Secure & Share Government Documents
 
-A secure document management system allowing citizens to store and share government documents digitally.
+🔹 Secure digital document management platform for storing and sharing government documents safely.
 
-### 🛒 SparkEcom
+**Tech Stack**
 
-Digital Products & E-commerce Solutions Platform.
-
-### 🎓 Student Management System
-
-Complete student portal with study materials, assignments, journals and department management.
+`React.js` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
 
-## ✍️ Dev Quote
+## 🛒 SparkEcom
+
+Modern E-Commerce platform with responsive UI, authentication and digital product management.
+
+**Tech Stack**
+
+`React.js` • `Node.js` • `MongoDB`
+
+---
+
+## 🎓 Student Management System
+
+Student portal for attendance, study materials, assignments, notices and department management.
+
+**Tech Stack**
+
+`React.js` • `Laravel` • `MySQL`
+
+---
+
+# 📚 Currently Learning
+
+- Next.js
+- TypeScript
+- Docker
+- AWS
+- CI/CD
+- System Design
+- Redis
+- Microservices
+
+---
+
+# 📜 Certifications
+
+🏅 MERN Stack Development
+
+🏅 React.js Development
+
+🏅 JavaScript Programming
+
+🏅 HTML & CSS
+
+🏅 Git & GitHub
+
+---
+
+# 📅 2026 Goals
+
+✅ Master Next.js
+
+✅ Learn Cloud Computing
+
+✅ Contribute to Open Source
+
+✅ Build SaaS Products
+
+✅ Solve 500+ DSA Problems
+
+✅ Become a Senior Software Engineer
+
+---
+
+# ✍️ Developer Quote
 
 <p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 👀 Profile Visitors
+# ☕ Support Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MAhmaduvesh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
----
-
-## ☕ Support Me
-
-<p align="center">
 <a href="https://buymeacoffee.com/mahmaduvesh">
+
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat." ⭐
+## 💙 Thanks for Visiting My Profile
+
+### ⭐ *"Code • Learn • Build • Repeat"* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
+```
