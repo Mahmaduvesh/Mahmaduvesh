@@ -1,0 +1,70 @@
+image name is two-leave-tea.png
+link live => https://a5-task-2tea.netlify.app/
+Assignment Five Completed! I have successfully built the chosen live design from scratch, perfectly matching the original project. Using clean HTML, CSS, and JavaScript, I created a pixel-perfect, fully responsive layout that looks great on all devices. Finally, I implemented dynamic functionality, smooth hover effects, and transitions to ensure a seamless, interactive, and professional user experience.
+
+#html
+#css
+js 
+
+and image name is oliv.png
+live link => https://a5-task-2-oliv.netlify.app/ 
+I have successfully built the chosen design from scratch, perfectly matching the original project. Using clean HTML, CSS, and JavaScript, I created a pixel-perfect, fully responsive layout that looks great on all devices. Finally, I implemented dynamic functionality, smooth hover effects, and transitions to ensure a seamless, interactive, and professional user experience.
+#html
+#css
+js 
+
+
+and image name is k.png
+https://k-engineering.netlify.app/Freelance Project
+K Engineers
+I developed a fully responsive and mobile-friendly static catalog website for K Engineers, a leading manufacturer of Industrial Valves, Hydraulic Equipment, and Process Control Instruments. The frontend design was executed to prioritize a clean UI/UX, ensuring the optimal presentation of their extensive and complex product range across all devices. I structured the site for efficient product communication and enhanced lead generation by prominently featuring clear Contact and Enquiry forms.
+#react.js
+#tailwind css
+#javascript
+
+
+and image name is flow.png
+link live => https://flow-engineers.netlify.app/
+Freelance Project
+Flow Engineers
+I developed a high-performance, fully responsive static website for Flow Engineers, a specialist in control instruments, using React.js, Tailwind CSS, and JavaScript. My focus was on delivering a clean UI/UX for their product catalog, ensuring complex technical details were clearly and seamlessly presented across all mobile and desktop devices. The efficient front-end architecture establishes a professional and scalable digital presence for effective B2B communication.
+
+#react.js
+#tailwind css
+#javascript
+
+and imae name is aiincome-vsl.png
+live link https://aiincomeaccelerator.com/vsl/
+Freelance Project
+AI Income Accelerator 2025 - VSL Page
+I developed the promotional VSL page content promising to convert AI into a 24/7 passive income machine. The strategy centered on a robust system featuring 1000+ plug-and-play prompts and automations for beginners. I highlighted the ability to quickly build affiliate funnels and launch faceless YouTube/TikTok channels. The sales narrative maximized urgency by featuring a limited-time 'Founders Pricing' discount.
+
+#react.js
+#tailwind css
+#JavaScript
+
+
+and image name is gym-admin
+live link => https://gym-sys-uv.netlify.app/admin-auth
+live link => 
+Gym Management System - Admin
+This project involved developing an Admin Dashboard for a gym management system, designed with a clean, dark-themed UI to provide administrators with an immediate overview of key operations. The system efficiently handles all core data, implementing CRUD functionality for managing Users, Memberships, Trainings, and Diets. The main dashboard provides at-a-glance metrics like active user count and membership statuses.
+
+#react.js
+#tailwind css
+#node.js
+#express.js
+#mongoDB
+#javascript
+
+and image name is gym-user
+live link => https://gym-sys-uv.netlify.app/user-login
+Gym Management System - User
+I successfully implemented a modern, responsive front-end for the 'Fitness Warrior!' platform, providing a seamless user experience. The interface integrates key client-side functionalities like Membership management, access to personalized Training plans, and curated Diet guides. I engineered the front-end to utilize API endpoints for loading dynamic content, ensuring smooth data flow.
+
+#react.js
+#tailwind css
+#node.js
+#express.js
+#mongoDB
+#javascript

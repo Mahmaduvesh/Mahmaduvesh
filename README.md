@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:6366f1,100:9333ea&text=Mahmaduvesh%20Khalifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20|%20MERN%20Developer&descAlignY=60"/>
 
-# 👋 Hi, I'm Mahmaduvesh Khalifa
+ # 🚀 Welcome to My GitHub
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Frontend+Developer;React.js+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Technologies"/>
 
@@ -84,7 +84,7 @@
 
 ---
 
-# 💼 Professional Experience
+<!-- # 💼 Professional Experience
 
 ### 💻 Full Stack Software Engineer
 
@@ -111,7 +111,7 @@ Helping students learn
 
 through real-world projects.
 
----
+--- -->
 
 # 🚀 What I Do
 
@@ -168,33 +168,68 @@ through real-world projects.
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Secure & Share Government Documents
+## 🛍️ SkyMart - Modern React E-Commerce
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
+<img src="./skymart.png" width="100%" alt="SkyMart"/>
 
-A secure digital document management platform where citizens can safely store and share government documents online.
+A modern and fully responsive **E-Commerce Web Application** built with **React.js**, **Vite**, **Tailwind CSS**, and **Context API**. SkyMart delivers a complete online shopping experience with secure authentication, shopping cart management, Razorpay payment integration, order history, and detailed order tracking.
+
+### ✨ Features
+
+- 🛒 Product Browsing
+- ❤️ Wishlist
+- 🛍 Shopping Cart
+- 💳 Razorpay Payment Integration
+- 📦 Order History
+- 🔐 Authentication
+- 📱 Fully Responsive Design
 
 ### 🛠 Tech Stack
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+`React.js`
+`Vite`
+`Tailwind CSS`
+`Context API`
+`JavaScript`
+`Razorpay`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 SparkEcom
+## 🏋️ Gym Management System - Admin
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
+<img src="./gym-admin.png" width="100%" alt="Gym Admin"/>
 
-A modern e-commerce platform for digital products featuring authentication, product management, and responsive UI.
+A powerful **Admin Dashboard** for managing gym operations with a clean dark-themed interface. The system provides complete CRUD functionality for managing members, memberships, trainers, diet plans, and training programs while displaying real-time dashboard statistics.
+
+### 🔥 Features
+
+- 👥 User Management
+- 💳 Membership Management
+- 🏋️ Training Management
+- 🥗 Diet Management
+- 📊 Dashboard Analytics
+- 🔍 Search & Filters
+- ⚡ CRUD Operations
+
+### 🌐 Live Demo
+
+🔗 https://gym-sys-uv.netlify.app/admin-auth
 
 ### 🛠 Tech Stack
 
-`React.js` `Node.js` `MongoDB`
+`React.js`
+`Tailwind CSS`
+`Node.js`
+`Express.js`
+`MongoDB`
+`JavaScript`
 
 </td>
 
@@ -202,54 +237,204 @@ A modern e-commerce platform for digital products featuring authentication, prod
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Student Management System
+## 💪 Gym Management System - User
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+<img src="./gym-user.png" width="100%" alt="Gym User"/>
 
-Student portal for attendance, assignments, journals, study material, notices, and department management.
+A modern and responsive user portal for **Fitness Warrior**, allowing members to manage memberships, explore personalized workout plans, access diet guides, and interact seamlessly with backend APIs for dynamic content.
+
+### ✨ Features
+
+- 👤 User Dashboard
+- 💳 Membership Plans
+- 🏋️ Training Programs
+- 🥗 Diet Plans
+- 📅 User Profile
+- 📱 Responsive UI
+- ⚡ API Integration
+
+### 🌐 Live Demo
+
+🔗 https://gym-sys-uv.netlify.app/user-login
 
 ### 🛠 Tech Stack
 
-`React.js` `Laravel` `MySQL`
+`React.js`
+`Tailwind CSS`
+`Node.js`
+`Express.js`
+`MongoDB`
+`JavaScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+## 🍃 Two Leaves Tea
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+<img src="./two-leave-tea.png" width="100%" alt="Two Leaves Tea"/>
 
-A responsive developer portfolio showcasing projects, skills, certifications, and achievements.
+A pixel-perfect clone of the original **Two Leaves Tea** website built completely from scratch using clean HTML, CSS, and JavaScript. The project accurately replicates the original design while maintaining excellent responsiveness and smooth user interactions.
 
-### 🔗 Live Website
+### ✨ Features
 
-https://uv-pf.netlify.app/
+- 🎨 Pixel Perfect UI
+- 📱 Fully Responsive
+- ⚡ Smooth Animations
+- 🌟 Hover Effects
+- 💻 Clean Semantic Code
+- 🚀 Fast Performance
+
+### 🌐 Live Demo
+
+🔗 https://a5-task-2tea.netlify.app/
+
+### 🛠 Tech Stack
+
+`HTML5`
+`CSS3`
+`JavaScript`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 📜 Certifications
+<table>
 
-🏅 MERN Stack Development
+<tr>
 
-🏅 React.js Development
+<td width="50%" valign="top">
 
-🏅 JavaScript Programming
+## 🫒 Oliv Landing Page
 
-🏅 HTML & CSS
+<img src="./oliv.png" width="100%" alt="Oliv Website"/>
 
-🏅 Git & GitHub
+A modern and pixel-perfect landing page recreated from scratch using **HTML, CSS, and JavaScript**. The project closely matches the original design while maintaining excellent responsiveness, smooth animations, and interactive user experience across all devices.
 
-🏅 Full Stack Web Development
+### ✨ Features
+
+- 🎨 Pixel Perfect Design
+- 📱 Fully Responsive
+- ⚡ Smooth Animations
+- 🌟 Hover Effects
+- 💻 Clean & Semantic Code
+- 🚀 Optimized Performance
+
+### 🌐 Live Demo
+
+🔗 https://a5-task-2-oliv.netlify.app/
+
+### 🛠 Tech Stack
+
+`HTML5`
+`CSS3`
+`JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏭 K Engineers
+
+<img src="./k.png" width="100%" alt="K Engineers"/>
+
+A fully responsive industrial catalog website developed for **K Engineers**, showcasing Industrial Valves, Hydraulic Equipment, and Process Control Instruments. Designed with a clean UI/UX to effectively present complex product information while improving customer engagement and lead generation.
+
+### ✨ Features
+
+- 📱 Mobile Friendly
+- 🎨 Professional UI/UX
+- 📋 Product Catalog
+- 📩 Contact & Enquiry Forms
+- ⚡ Fast Loading
+- 🌍 SEO Friendly
+
+### 🌐 Live Demo
+
+🔗 https://k-engineering.netlify.app/
+
+### 🛠 Tech Stack
+
+`React.js`
+`Tailwind CSS`
+`JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚙️ Flow Engineers
+
+<img src="./flow.png" width="100%" alt="Flow Engineers"/>
+
+A professional static website developed for **Flow Engineers**, specializing in control instruments. Built with a modern React architecture and responsive design to present technical products clearly while ensuring a seamless browsing experience across all devices.
+
+### ✨ Features
+
+- 📱 Responsive Layout
+- ⚡ High Performance
+- 🏭 Industrial Product Showcase
+- 📋 Product Catalog
+- 🎨 Modern UI
+- 🌍 Professional Business Website
+
+### 🌐 Live Demo
+
+🔗 https://flow-engineers.netlify.app/
+
+### 🛠 Tech Stack
+
+`React.js`
+`Tailwind CSS`
+`JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Income Accelerator 2025 - VSL
+
+<img src="./aiincome-vsl.png" width="100%" alt="AI Income Accelerator"/>
+
+A high-converting **Video Sales Letter (VSL)** landing page created for the **AI Income Accelerator 2025** campaign. The page promotes an AI-powered passive income system with engaging copywriting, compelling CTAs, and a conversion-focused layout designed to maximize user engagement.
+
+### ✨ Features
+
+- 🚀 High-Converting Landing Page
+- 🎯 Sales Funnel Design
+- 📱 Fully Responsive
+- ⚡ Fast Loading
+- 💰 Conversion Optimized
+- 🎨 Modern UI
+
+### 🌐 Live Demo
+
+🔗 https://aiincomeaccelerator.com/vsl/
+
+### 🛠 Tech Stack
+
+`React.js`
+`Tailwind CSS`
+`JavaScript`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+
 
 # 📚 Education
 
